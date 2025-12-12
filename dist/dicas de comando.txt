@@ -1,0 +1,4 @@
+use as setas horizontal  para mover a cobrinha para direita e esquerda ⬅️➡️
+
+use as setas vertical para mover para cima e para baixo ⬆️ 
+                                                        ⬇️
